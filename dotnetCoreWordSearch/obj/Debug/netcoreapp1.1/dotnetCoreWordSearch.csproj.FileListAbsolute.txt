@@ -1,0 +1,11 @@
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\bin\Debug\netcoreapp1.1\dotnetCoreWordSearch.deps.json
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\bin\Debug\netcoreapp1.1\dotnetCoreWordSearch.runtimeconfig.json
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\bin\Debug\netcoreapp1.1\dotnetCoreWordSearch.runtimeconfig.dev.json
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\obj\Debug\netcoreapp1.1\dotnetCoreWordSearch.AssemblyInfo.cs
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\obj\Debug\netcoreapp1.1\dotnetCoreWordSearch.csprojAssemblyReference.cache
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\obj\Debug\netcoreapp1.1\dotnetCoreWordSearch.csproj.CoreCompileInputs.cache
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\obj\Debug\netcoreapp1.1\dotnetCoreWordSearch.AssemblyInfoInputs.cache
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\bin\Debug\netcoreapp1.1\dotnetCoreWordSearch.dll
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\bin\Debug\netcoreapp1.1\dotnetCoreWordSearch.pdb
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\obj\Debug\netcoreapp1.1\dotnetCoreWordSearch.dll
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\dotnetCoreWordSearch\obj\Debug\netcoreapp1.1\dotnetCoreWordSearch.pdb

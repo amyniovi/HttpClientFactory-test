@@ -1,0 +1,16 @@
+c:\users\amy niovi\documents\visual studio 2015\Projects\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+c:\users\amy niovi\documents\visual studio 2015\Projects\WordSearch\WordSearch\obj\Debug\WordSearch.csprojResolveAssemblyReference.cache
+c:\users\amy niovi\documents\visual studio 2015\Projects\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+c:\users\amy niovi\documents\visual studio 2015\Projects\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+c:\users\amy niovi\documents\visual studio 2015\Projects\WordSearch\WordSearch\bin\Debug\Newtonsoft.Json.dll
+c:\users\amy niovi\documents\visual studio 2015\Projects\WordSearch\WordSearch\bin\Debug\Newtonsoft.Json.xml
+c:\users\amy niovi\documents\visual studio 2015\Projects\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+c:\users\amy niovi\documents\visual studio 2015\Projects\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\WordSearch\bin\Debug\WordSearch.exe.config
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\WordSearch\obj\Debug\WordSearch.exe
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\WordSearch\obj\Debug\WordSearch.pdb
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\WordSearch\bin\Debug\WordSearch.exe
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\WordSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\WordSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amy niovi\Downloads\SpotlightDeveloperTest\SpotlightDeveloperTest\DeveloperTest\WordSearch\WordSearch\obj\Debug\WordSearch.csprojResolveAssemblyReference.cache
